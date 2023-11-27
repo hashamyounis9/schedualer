@@ -1,11 +1,7 @@
 <h1 align="center">Scheduler App</h1>
 
 <p align="center">
-  <img src="your_project_screenshot.png" alt="Scheduler App Screenshot">
-</p>
-
-<p align="center">
-  <strong>A simple scheduler app with a graphical user interface.</strong>
+  <strong>This Python application provides a simple scheduler using the customtkinter library for a graphical user interface. It allows users to add and manage tasks and events with various attributes such as title, description, priority, and completion status.</strong>
 </p>
 
 <hr>
@@ -35,31 +31,71 @@
   <li><strong>Task Management:</strong></li>
   <ul>
     <li>Add new tasks with titles and optional descriptions.</li>
-    <!-- Add more features here -->
+    <li>Set task priorities (Low, Medium, High) using a slider.</li>
+    <li>Tasks are displayed with a randomly assigned color.</li>
   </ul>
 
-  <!-- Add more sections for other features -->
+  <li><strong>Event Management:</strong></li>
+  <ul>
+    <li>Add new events with titles and optional descriptions.</li>
+    <li>Set event priorities (Low, Medium, High) using a slider.</li>
+    <li>Events are displayed with a randomly assigned color.</li>
+  </ul>
 
+  <li><strong>UI Customization:</strong></li>
+  <ul>
+    <li>The application uses a dark appearance mode and a default green color theme.</li>
+    <li>You can customize these settings in the code.</li>
+  </ul>
 </ul>
 
 <h2>Usage</h2>
 
-<!-- Add usage instructions here -->
+<h3>Adding a Task</h3>
+
+<ol>
+  <li>Click on the "Add Task" button in the "Tasks" section.</li>
+  <li>Enter the task title and, if needed, add a description.</li>
+  <li>Adjust the priority using the slider.</li>
+  <li>Click the "Add Task" button in the task creation dialog.</li>
+</ol>
+
+<h3>Adding an Event</h3>
+
+<ol>
+  <li>Click on the "Add Event" button in the "Events" section.</li>
+  <li>Enter the event title and, if needed, add a description.</li>
+  <li>Adjust the priority using the slider.</li>
+  <li>Click the "Add Event" button in the event creation dialog.</li>
+</ol>
+
+<h3>Managing Tasks and Events</h3>
+
+<ul>
+  <li>Tasks and events are displayed with their titles, descriptions, priorities, and completion status.</li>
+  <li>For tasks, you can mark them as "Achieved!" by checking the checkbox.</li>
+  <li>For events, you can mark them as "Attended!" by checking the checkbox.</li>
+</ul>
+
+<h3>Customization</h3>
+
+<ul>
+  <li>The application uses a dark appearance mode and a default green color theme. You can customize these settings in the code.</li>
+</ul>
 
 <h2>Contributing</h2>
 
-<!-- Add contributing guidelines here -->
+<p>Feel free to contribute to the development of this application by submitting issues or pull requests.</p>
 
 <h2>License</h2>
 
-<!-- Add license information here -->
+<p>This project is licensed under the MIT License.</p>
 
 <h2>Acknowledgments</h2>
 
-<!-- Add acknowledgments or credits here -->
+<ul>
+  <li>The application is built using the customtkinter library.</li>
+  <li>Special thanks to the Python community for their contributions and support.</li>
+</ul>
 
 <hr>
-
-<p align="center">
-  <em>Note: Make sure to replace the placeholder links and information in this template with your actual project details.</em>
-</p>
