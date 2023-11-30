@@ -8,13 +8,21 @@
 
 Include screenshots or GIFs here to showcase the app in action.
 
-Example:
+1. Light Blue Theme
+   ![Task Screen](/screenshots/light_blue_theme.png)
+  
 
-![Task Screen](/images/task_screen.png)
-*Caption: Task management screen*
+2. Light Green Theme
+   ![Event Screen](/screenshots/light_green_theme.png)
+  
 
-![Event Screen](/images/event_screen.png)
-*Caption: Event management screen*
+3. Dark Blue Theme
+   ![Screenshot 1](/screenshots/dark_blue_theme.png)
+   
+
+4. Dark Green Theme
+   ![Screenshot 2](/screenshots/dark_green_theme.png)
+   
 
 ---
 
