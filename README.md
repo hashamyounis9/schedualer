@@ -4,6 +4,20 @@
 
 ---
 
+## Screenshots
+
+Include screenshots or GIFs here to showcase the app in action.
+
+Example:
+
+![Task Screen](/images/task_screen.png)
+*Caption: Task management screen*
+
+![Event Screen](/images/event_screen.png)
+*Caption: Event management screen*
+
+---
+
 ## Getting Started
 
 1. **Prerequisites:**
