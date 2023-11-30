@@ -1,101 +1,85 @@
-<h1 align="center">Scheduler App</h1>
+# Scheduler App
 
-<p align="center">
-  <strong>This Python application provides a simple scheduler using the customtkinter library for a graphical user interface. It allows users to add and manage tasks and events with various attributes such as title, description, priority, and completion status.</strong>
-</p>
+**This Python application provides a simple scheduler using the customtkinter library for a graphical user interface. It allows users to add and manage tasks and events with various attributes such as title, description, priority, and completion status.**
 
-<hr>
+---
 
-<h2>Getting Started</h2>
+## Getting Started
 
-<ol>
-  <li><strong>Prerequisites:</strong></li>
-  <ul>
-    <li>Ensure that Python is installed on your system.</li>
-    <li>Install the <code>customtkinter</code> library and its dependencies by running:
-      <pre><code>pip install customtkinter</code></pre>
-    </li>
-  </ul>
+1. **Prerequisites:**
+   - Ensure that Python is installed on your system.
+   - Install the `customtkinter` library and its dependencies by running:
+     ```
+     pip install customtkinter
+     ```
 
-  <li><strong>Running the App:</strong></li>
-  <ul>
-    <li>Execute the <code>scheduler.py</code> script:
-      <pre><code>python scheduler.py</code></pre>
-    </li>
-  </ul>
-</ol>
+2. **Running the App:**
+   - Execute the `scheduler.py` script:
+     ```
+     python scheduler.py
+     ```
 
-<h2>Features</h2>
+---
 
-<ul>
-  <li><strong>Task Management:</strong></li>
-  <ul>
-    <li>Add new tasks with titles and optional descriptions.</li>
-    <li>Set task priorities (Low, Medium, High) using a slider.</li>
-    <li>Tasks are displayed with a randomly assigned color.</li>
-  </ul>
+## Features
 
-  <li><strong>Event Management:</strong></li>
-  <ul>
-    <li>Add new events with titles and optional descriptions.</li>
-    <li>Set event priorities (Low, Medium, High) using a slider.</li>
-    <li>Events are displayed with a randomly assigned color.</li>
-  </ul>
+- **Task Management:**
+  - Add new tasks with titles and optional descriptions.
+  - Set task priorities (Low, Medium, High) using a slider.
+  - Tasks are displayed with a randomly assigned color.
 
-  <li><strong>UI Customization:</strong></li>
-  <ul>
-    <li>The application uses a dark appearance mode and a default green color theme.</li>
-    <li>You can customize these settings in the code.</li>
-  </ul>
-</ul>
+- **Event Management:**
+  - Add new events with titles and optional descriptions.
+  - Set event priorities (Low, Medium, High) using a slider.
+  - Events are displayed with a randomly assigned color.
 
-<h2>Usage</h2>
+- **UI Customization:**
+  - The application uses a dark appearance mode and a default green color theme.
+  - You can customize these settings in the code.
 
-<h3>Adding a Task</h3>
+---
 
-<ol>
-  <li>Click on the "Add Task" button in the "Tasks" section.</li>
-  <li>Enter the task title and, if needed, add a description.</li>
-  <li>Adjust the priority using the slider.</li>
-  <li>Click the "Add Task" button in the task creation dialog.</li>
-</ol>
+## Usage
 
-<h3>Adding an Event</h3>
+### Adding a Task
 
-<ol>
-  <li>Click on the "Add Event" button in the "Events" section.</li>
-  <li>Enter the event title and, if needed, add a description.</li>
-  <li>Adjust the priority using the slider.</li>
-  <li>Click the "Add Event" button in the event creation dialog.</li>
-</ol>
+1. Click on the "Add Task" button in the "Tasks" section.
+2. Enter the task title and, if needed, add a description.
+3. Adjust the priority using the slider.
+4. Click the "Add Task" button in the task creation dialog.
 
-<h3>Managing Tasks and Events</h3>
+### Adding an Event
 
-<ul>
-  <li>Tasks and events are displayed with their titles, descriptions, priorities, and completion status.</li>
-  <li>For tasks, you can mark them as "Achieved!" by checking the checkbox.</li>
-  <li>For events, you can mark them as "Attended!" by checking the checkbox.</li>
-</ul>
+1. Click on the "Add Event" button in the "Events" section.
+2. Enter the event title and, if needed, add a description.
+3. Adjust the priority using the slider.
+4. Click the "Add Event" button in the event creation dialog.
 
-<h3>Customization</h3>
+### Managing Tasks and Events
 
-<ul>
-  <li>The application uses a dark appearance mode and a default green color theme. You can customize these settings in the code.</li>
-</ul>
+- Tasks and events are displayed with their titles, descriptions, priorities, and completion status.
+- For tasks, you can mark them as "Achieved!" by checking the checkbox.
+- For events, you can mark them as "Attended!" by checking the checkbox.
 
-<h2>Contributing</h2>
+### Customization
 
-<p>Feel free to contribute to the development of this application by submitting issues or pull requests.</p>
+- The application uses a dark appearance mode and a default green color theme. You can customize these settings in the code.
 
-<h2>License</h2>
+---
 
-<p>This project is licensed under the MIT License.</p>
+## Contributing
 
-<h2>Acknowledgments</h2>
+Feel free to contribute to the development of this application by submitting issues or pull requests.
 
-<ul>
-  <li>The application is built using the customtkinter library.</li>
-  <li>Special thanks to the Python community for their contributions and support.</li>
-</ul>
+---
 
-<hr>
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Acknowledgments
+
+- The application is built using the customtkinter library.
+- Special thanks to the Python community for their contributions and support.
