@@ -95,13 +95,6 @@ Feel free to contribute to the development of this application by submitting iss
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgments
 
-- The application is built using the customtkinter library.
-- Special thanks to the Python community for their contributions and support.
+- The application is built using the customtkinter library, make sure to visit the official repo of library here: https://github.com/TomSchimansky/CustomTkinter
